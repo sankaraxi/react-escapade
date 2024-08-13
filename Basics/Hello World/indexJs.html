@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>React Basics</title>
+</head>
+<body>
+    <div>
+        <h1>Hello World from HTML!</h1>
+    </div>
+    <div id="root">
+        <!--JavaScript will complete here-->
+    </div>
+
+    <script>
+        const heading = document.createElement('h1');
+        heading.innerHTML = 'Hello World from JavaScript!';
+
+        const root = document.getElementById('root');
+        root.appendChild(heading);
+    </script>
+</body>
+</html>
