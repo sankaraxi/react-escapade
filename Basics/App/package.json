@@ -1,0 +1,26 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "My first npm package",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sankaraxi/react-escapade.git#main"
+  },
+  "keywords": [
+    "react",
+    "frontend",
+    "escapade",
+    "sankar",
+    "gnanasekar"
+  ],
+  "author": "Sankar Gnanasekar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sankaraxi/react-escapade/issues"
+  },
+  "homepage": "https://github.com/sankaraxi/react-escapade/tree/main#readme"
+}
