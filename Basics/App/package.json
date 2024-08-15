@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/sankaraxi/react-escapade/issues"
   },
-  "homepage": "https://github.com/sankaraxi/react-escapade/tree/main#readme"
+  "homepage": "https://github.com/sankaraxi/react-escapade/tree/main#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
 }
