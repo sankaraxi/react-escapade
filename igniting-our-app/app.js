@@ -106,7 +106,7 @@ root2.render(jsxElement);
         return <h1>Hello World from HeadingComponent!</h1>;
     }
 
-    //also can be written as
+    //also can be written as this
     const TitleComponent = () => <h1>Hello World I'm Title form Title functional component!😍</h1>;
 
     
